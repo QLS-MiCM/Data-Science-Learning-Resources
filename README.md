@@ -6,15 +6,12 @@ This is a list of resources for learning data science.
 - R
    * Basics
    * Beyond the Basics
-  
 - Python
   * Basics
   * Beyond the Basics
-  
 - Github
   * Basics
-  * Beyond the Basics  
-  
+  * Beyond the Basics
 - Statistics
   * Basics
   * Beyond the Basics
