@@ -9,7 +9,7 @@ This is a list of resources for learning data science.
 - Python
   * Basics
   * Beyond the Basics
-- GitHub
+- [GitHub](#github)
   * Basics
   * Beyond the Basics
 - Statistics
