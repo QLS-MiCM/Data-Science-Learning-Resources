@@ -16,7 +16,7 @@ This is a list of resources for learning data science.
   * Basics
   * Beyond the Basics
 
-### R(#r) 
+### R 
 
 
 
