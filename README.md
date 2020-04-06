@@ -15,3 +15,5 @@ This is a list of resources for learning data science.
 - Statistics
   * Basics
   * Beyond the Basics
+
+### R 
