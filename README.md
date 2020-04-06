@@ -3,7 +3,7 @@ This is a list of resources for learning data science.
 
 ## Content
 
-- [R](r)
+- [R](#r)
    * Basics
    * Beyond the Basics
 - Python
