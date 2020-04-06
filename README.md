@@ -21,4 +21,4 @@ This is a list of resources for learning data science.
 
 
 ### GitHub
-[GitHub Learning Lab] (https://lab.github.com/)
+* [GitHub Learning Lab](https://lab.github.com/)
