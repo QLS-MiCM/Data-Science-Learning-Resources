@@ -16,10 +16,13 @@ This is a list of resources for learning data science.
 
 ### R 
 #### Basics
-* 
+* [Introduction to R](http://statseducation.com/Introduction-to-R/)
+
 #### Beyond the Basics
 * [MiCM's R Beyond the Basics](https://github.com/McGill-MiCM/MiCM2020)
 * [MiCM's Data Visualization in R: Essentials and Optimization](https://github.com/McGill-MiCM/MICM_workshops)
+* [R for Data Science](https://r4ds.had.co.nz/)
+
 
 ### Python 
 
