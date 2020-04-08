@@ -19,6 +19,8 @@ This is a list of resources for learning data science.
 #### Basics
 * 
 #### Beyond the Basics
+* [MiCM's R Programming Beyond the Basics](https://github.com/McGill-MiCM/MiCM)
+* [MiCM's Data Visualization in R: Essentials and Optimization](https://github.com/McGill-MiCM/MICM_workshops)
 
 ### Python 
 
