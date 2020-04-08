@@ -7,19 +7,18 @@ This is a list of resources for learning data science.
    * [Basics](#basics)
    * [Beyond the Basics](#beyond-the-basics)
 - [Python](#python)
-  * Basics
-  * Beyond the Basics
-- [GitHub](#github)
+  * [Basics](#basics)
+  * [Beyond the Basics](#beyond-the-basics)- [GitHub](#github)
 - [Statistics](#statistics)
-  * Basics
-  * Beyond the Basics
+  * [Basics](#basics)
+  * [Beyond the Basics](#beyond-the-basics)
 - [Other](#other)
 
 ### R 
 #### Basics
 * 
 #### Beyond the Basics
-* [MiCM's R Programming Beyond the Basics](https://github.com/McGill-MiCM/MiCM)
+* [MiCM's R Beyond the Basics](https://github.com/McGill-MiCM/MiCM2020)
 * [MiCM's Data Visualization in R: Essentials and Optimization](https://github.com/McGill-MiCM/MICM_workshops)
 
 ### Python 
@@ -35,3 +34,4 @@ This is a list of resources for learning data science.
 
 ### Other
 * [Korbi-AI-powered Tutor](https://www.korbit.ai/)
+* [Data Science Primer](https://elitedatascience.com/primer)
