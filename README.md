@@ -13,10 +13,11 @@ This is a list of resources for learning data science.
 - [Statistics](#statistics)
   * Basics
   * Beyond the Basics
+- [Other](#other)
 
 ### R 
 #### Basics
-
+* 
 #### Beyond the Basics
 
 ### Python 
@@ -29,3 +30,6 @@ This is a list of resources for learning data science.
 
 ### GitHub
 * [GitHub Learning Lab](https://lab.github.com/)
+
+### Other
+* [Korbi-AI-powered Tutor](https://www.korbit.ai/)
