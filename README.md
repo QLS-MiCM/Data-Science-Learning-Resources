@@ -5,7 +5,7 @@ This is a list of resources for learning data science.
 
 - [R](#r)
    * [Basics](#basics)
-   * [Beyond the Basics](#beyond the basics)
+   * [Beyond the Basics](#beyond-the-basics)
 - [Python](#python)
   * Basics
   * Beyond the Basics
