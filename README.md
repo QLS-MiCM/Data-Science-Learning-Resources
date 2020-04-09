@@ -1,5 +1,5 @@
 # Data Science Learning Resources
-This is a list of resources for learning data science. It will be kept open-ended in order to update it with 
+This open-ended list created by McGill initiative in Computational Medicine (MICM) contains available online resources for learning data science. This is not a complete list 
 
 ## Content
 
@@ -13,13 +13,14 @@ This is a list of resources for learning data science. It will be kept open-ende
 - [Statistics](#statistics)
   * [Basics](#basics)
   * [Beyond the Basics](#beyond-the-basics)
-- [Other](#other)
+- [Other Resources](#other-resources)
 
 ### R 
 
 #### Basics
 
 * [Introduction to R](http://statseducation.com/Introduction-to-R/)
+* [HBC's Introduction to R workshop](https://hbctraining.github.io/Intro-to-R/)
 * [Data Analysis for the Life Sciences Series](http://rafalab.github.io/pages/harvardx.html)
 
 #### Beyond the Basics
@@ -36,10 +37,11 @@ This is a list of resources for learning data science. It will be kept open-ende
 
 * [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 * [Using Python for Research](http://rafalab.github.io/pages/harvardx.html#python)
+* [Learn Python](https://www.codecademy.com/learn/learn-python-3)
 
 #### Beyond the Basics
 
-* Python - Beyond the basics
+* MiCM's Python - Beyond the basics
 * [Intermediate Python](https://github.com/yasoob/intermediatePython) 
 
 ### GitHub
@@ -63,4 +65,5 @@ This is a list of resources for learning data science. It will be kept open-ende
 * [Data Science Primer](https://elitedatascience.com/primer)
 * [Introduction to Open Data Science](http://ohi-science.org/data-science-training/)
 * [A Primer for Computational Biology](https://open.oregonstate.education/computationalbiology/)
+* [Online Training from the Swiss Institute of Bioinformatics (SIB)](https://www.sib.swiss/training/upcoming-training-courses#)
 
