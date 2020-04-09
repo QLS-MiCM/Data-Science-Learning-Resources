@@ -18,8 +18,9 @@ This is a list of resources for learning data science.
 ### R 
 
 #### Basics
-* [Data Analysis for the Life Sciences Series](http://rafalab.github.io/pages/harvardx.html)
+
 * [Introduction to R](http://statseducation.com/Introduction-to-R/)
+* [Data Analysis for the Life Sciences Series](http://rafalab.github.io/pages/harvardx.html)
 
 #### Beyond the Basics
 
