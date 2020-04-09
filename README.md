@@ -1,5 +1,5 @@
 # Data Science Learning Resources
-This is a list of resources for learning data science.
+This is a list of resources for learning data science. It will be kept open-ended in order to update it with 
 
 ## Content
 
