@@ -12,6 +12,7 @@ This open-ended list created by McGill initiative in Computational Medicine (MIC
    * [Basics](#basics-1)
    * [Beyond the Basics](#beyond-the-basics-1)
 - [GitHub](#github)
+- [Nextflow](#nextflow)
 - [Statistics](#statistics)
    * [Basics](#basics-2)
    * [Beyond the Basics](#beyond-the-basics-2)
@@ -50,6 +51,9 @@ This open-ended list created by McGill initiative in Computational Medicine (MIC
 ### GitHub
 
 * [GitHub Learning Lab](https://lab.github.com/)
+
+### Nextflow
+* 
 
 ### Statistics 
 
