@@ -54,3 +54,5 @@ This is a list of resources for learning data science.
 
 * [Korbi-AI-powered Tutor](https://www.korbit.ai/)
 * [Data Science Primer](https://elitedatascience.com/primer)
+* [Introduction to Open Data Science](http://ohi-science.org/data-science-training/)
+
