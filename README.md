@@ -32,8 +32,11 @@ This is a list of resources for learning data science.
 
 #### Basics
 
+* [Using Python for Research](http://rafalab.github.io/pages/harvardx.html#python)
+
 #### Beyond the Basics
 
+* Python - Beyond the basics
 * [Intermediate Python](https://github.com/yasoob/intermediatePython) 
 
 ### GitHub
