@@ -1,5 +1,7 @@
 # Data Science Learning Resources
-This open-ended list created by McGill initiative in Computational Medicine (MICM) contains available online resources for learning data science. This is not a complete list 
+This open-ended list created by McGill initiative in Computational Medicine (MICM) contains available online resources for learning data science. This is not a complete list and more tools will be added. 
+
+Email us at info-micm@mcgill.ca with suggestions.
 
 ## Content
 
@@ -8,7 +10,7 @@ This open-ended list created by McGill initiative in Computational Medicine (MIC
    * [Beyond the Basics](#beyond-the-basics)
 - [Python](#python)
   * [Basics](#basics)
-  * [Beyond the Basics](#beyond-the-basics)- [GitHub](#github)
+  * [Beyond the Basics](#beyond-the-basics)
 - [GitHub](#github)
 - [Statistics](#statistics)
   * [Basics](#basics)
@@ -59,7 +61,7 @@ This open-ended list created by McGill initiative in Computational Medicine (MIC
 * [Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/index.html) 
 * [Statistical Learning](https://www.edx.org/course/statistical-learning) 
 
-### Other
+### Other Resources
 
 * [Korbi-AI-powered Tutor](https://www.korbit.ai/)
 * [Data Science Primer](https://elitedatascience.com/primer)
