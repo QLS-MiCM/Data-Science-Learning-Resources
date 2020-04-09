@@ -53,7 +53,7 @@ This open-ended list created by McGill initiative in Computational Medicine (MIC
 * [GitHub Learning Lab](https://lab.github.com/)
 
 ### Nextflow
-* 
+* [Nextflow Workshop 2018](https://nextflow-io.github.io/nf-hack18/)
 
 ### Statistics 
 
