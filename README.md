@@ -10,12 +10,12 @@ This open-ended list created by McGill initiative in Computational Medicine (MIC
    * [Basics](#basics)
    * [Beyond the Basics](#beyond-the-basics)
 - [Python](#python)
-  * [Basics](#basics)
-  * [Beyond the Basics](#beyond-the-basics)
+   * [Basics](#basics)
+   * [Beyond the Basics](#beyond-the-basics)
 - [GitHub](#github)
 - [Statistics](#statistics)
-  * [Basics](#basics)
-  * [Beyond the Basics](#beyond-the-basics)
+   * [Basics](#basics)
+   * [Beyond the Basics](#beyond-the-basics)
 - [Other Resources](#other-resources)
 
 ### R 
