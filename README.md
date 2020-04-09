@@ -1,8 +1,8 @@
 # Data Science Learning Resources
 This open-ended list created by McGill initiative in Computational Medicine (MICM) contains available online resources for learning data science. This is not a complete list and more tools will be added. 
 
-Email us at info-micm@mcgill.ca with suggestions.
------
+#### Email us at info-micm@mcgill.ca with suggestions.
+--------------
 
 ## Content
 
