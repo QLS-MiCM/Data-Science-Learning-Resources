@@ -28,11 +28,13 @@ This is a list of resources for learning data science.
 * [MiCM's Data Visualization in R: Essentials and Optimization](https://github.com/McGill-MiCM/MICM_workshops)
 * [R for Data Science](https://r4ds.had.co.nz/)
 * [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+* [Exploratory Analysis of Biological Data Using R](https://bioinformaticsdotca.github.io/eda_2019)
 
 ### Python 
 
 #### Basics
 
+* [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 * [Using Python for Research](http://rafalab.github.io/pages/harvardx.html#python)
 
 #### Beyond the Basics
@@ -53,6 +55,7 @@ This is a list of resources for learning data science.
 #### Beyond the Basics
 
 * [Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/index.html) 
+* [Statistical Learning](https://www.edx.org/course/statistical-learning) 
 
 ### Other
 
